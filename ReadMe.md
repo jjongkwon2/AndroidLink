@@ -13,7 +13,10 @@ Android 유용한 정보
 + [APK파일 디컴파일하기](https://m.blog.naver.com/PostView.nhn?blogId=goodsogi&logNo=220654395243&proxyReferer=https:%2F%2Fwww.google.co.kr%2F)
 + [MMS 문자 전송](http://mashroom.tistory.com/17)
 + [FileProvider](http://egloos.zum.com/mightyfine/v/315645)
-
++ [AQuery 설명 페이지](http://egloos.zum.com/mightyfine/v/307168)
++ [TedPicker Github 페이지](https://github.com/ParkSangGwon/TedPicker)
++ [spannable 설명 페이지](http://sub-dev.tistory.com/10)
++ [BLE 통신 라이브러리](https://github.com/jjongkwon2/BluetoothLibrary)
 
 Permission 권한체크 라이브러리
 -------------------------

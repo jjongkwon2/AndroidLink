@@ -64,3 +64,27 @@ MMS 문자 & Email
  오류가 떠서 실행이 안되는 경우가 발생
  Uri를 생성할 때 FileProvider를 사용해야 함을 발견!
 > + [FileProvider](http://egloos.zum.com/mightyfine/v/315645)
+
+뷰 관련 유용한 라이브러리
+-------------------
+> 이미지뷰에 이미지를 넣거나 텍스트뷰에 글자, 사이즈, 색상을 쉽게 설정할 수 있다.
+> + [AQuery 설명 페이지](http://egloos.zum.com/mightyfine/v/307168)
+> + [androidquery github 페이지](https://github.com/androidquery/androidquery)
+
+카메라 & 앨범에서 이미지 선택
+----------------------
+> 카메라 혹은 갤러리에서 이미지를 선택하는 라이브러리
+> + [TedPicker Github 페이지](https://github.com/ParkSangGwon/TedPicker)
+> + ![res-xml](Source/images/TedPicker.png)
+
+텍스트뷰에 밑줄 추가
+----------------
+> 텍스트뷰에 밑줄을 추가하고 색깔을 넣는 기능
+> + [spannable 설명 페이지](http://sub-dev.tistory.com/10)
+> + ![res-xml](Source/images/spannable.png)
+
+블루투스 라이브러리
+--------------
+> 내가 직접 만든 블루투스 BLE 통신 라이브러리
+> 사용감에 약간 불편한감이 없지않아 있지만 개선 중입니다.
+> + [BLE 통신 라이브러리](https://github.com/jjongkwon2/BluetoothLibrary)

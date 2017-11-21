@@ -1,6 +1,6 @@
 ### FileProvider
 1. xml파일 생성
-![res-xml](/image/fileprovider.png)
+![res-xml](Source/images/fileprovider.png)
 ``` xml
   <?xml version="1.0" encoding="utf-8"?>
   <paths xmlns:android = "http://schemas.android.com/apk/res/android">
